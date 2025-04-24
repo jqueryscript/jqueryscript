@@ -1,16 +1,15 @@
-## Hi there 👋
+## About
 
-<!--
-**jqueryscript/jqueryscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a solopreneur and a dad to two girls. Been building websites to make a living since I dropped out of college way back in '02. I've launched like over a hundred sites, most of which are now gone, but these are the ones still kicking around:
 
-Here are some ideas to get you started:
+[jQueryScript](https://www.jqueryscript.net/): A jQuery Plugin & Webdev resource website.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[CSSScript](https://www.cssscript.com/): A JavaScript/CSS website.
+
+[ScriptByAI](https://www.scriptbyai.com/): A free AI resource website.
+
+[CuratifyAI](https://www.curatifyai.com/): A Curated AI website.
+
+[TitanUI](https://www.titanui.com/): A free graphic design resource website.
+
+And many small niche websites.
